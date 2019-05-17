@@ -4,6 +4,7 @@ Quick installer for Visual C++ Runtimes V1
 
  This installer automatically installs the latest Visual C++ Runtimes
  available at the time this version of the installer was made.
+ (SFX auto installer executable available in releases)
 
  Runtimes included are the latest full Visual C++ Runtimes for Visual
  C++ versions 2005, 2008, 2010, 2012, 2013, and 2015/2017. This includes
@@ -12,7 +13,6 @@ Quick installer for Visual C++ Runtimes V1
  
  Its written to be fast, and will be updated as soon as possible
  after new versions of C++ Runtimes are released.
-
 
  *****************************************************************
  Visual Studio 2017 'branded' runtimes have been built on the 2015
